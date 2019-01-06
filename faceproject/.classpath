@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/cognitive-services-Face/json-20170516.jar"/>
+	<classpathentry kind="lib" path="C:/cognitive-services-Face/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="C:/cognitive-services-Face/httpclient-4.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/cognitive-services-Face/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/OpenCV-3.2.0"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
